@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+matplotlib
+CoolProp
+ansys-fluent-core
+pymupdf
+opencv-python-headless

@@ -1,0 +1,34 @@
+# Python
+.venv/
+.venv-aedt/
+__pycache__/
+*.pyc
+
+# benchmark paper and images extracted from it (copyright)
+data/paper/*.pdf
+data/paper/pages/
+data/paper/figs/
+data/digitised/check/
+
+# Fluent / Ansys working files
+*.cas
+*.dat
+*.cas.h5
+*.dat.h5
+*.trn
+*.log
+*.bat
+cleanup-fluent-*
+*.scdoc
+*.wbpj
+*_files/
+*.aedt
+*.aedtresults/
+*.aedt.lock
+cfd/runs/
+icepak/runs/
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.vscode/
