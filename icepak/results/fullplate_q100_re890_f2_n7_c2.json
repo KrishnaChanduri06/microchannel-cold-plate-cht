@@ -1,0 +1,29 @@
+{
+ "u_in": 2.9040065765800995,
+ "q_total": 155.0976,
+ "water": {
+  "rho": 998.1447464828672,
+  "mu": 0.000994279125684716,
+  "k": 0.5985416087428767,
+  "cp": 4183.84462423691
+ },
+ "region": "Region",
+ "base": "base",
+ "results": {
+  "outlet_T": 26.960528097198107,
+  "heater_T_last_section": 71.97789195265034,
+  "TC1": 55.0087829589844,
+  "TC2": 56.32814941406252,
+  "TC3": 59.49285278320315,
+  "TC4": 63.3781677246094,
+  "water_centre_xL": 24.086541748046898,
+  "speed_centre_mid": 3.272595882415771,
+  "heater_centre_xL": 72.65841064453122,
+  "water_edge_xL": 35.377648925781216,
+  "speed_edge_mid": 2.201774120330811,
+  "heater_edge_xL": 72.65841064453122,
+  "history": {},
+  "restart_dir": "C:\\CareerC\\ProjectC\\CHT_Cold_Plate\\icepak\\runs\\fullplate_q100_re890_f2_n7_c2.aedtresults\\full_plate.results\\DV61_S48_V0.restart"
+ },
+ "wall_time_s": 380.9025933742523
+}
